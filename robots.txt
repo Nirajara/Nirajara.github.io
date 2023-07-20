@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Nirajara.github.io/Nirajara.github.io/sitemap.xml
+Sitemap: https://Nirajara.github.io/sitemap.xml
