@@ -1,97 +1,69 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: University of California, Los Angeles
+      institution: Computer Science and Physics
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      - Computer Science - abstract data types, object-oriented programming, algorithms, computer architecture, assembly language, operating systems, digital systems, design of logic systems
+      - Multivariable Calculus, Linear Algebra, Differential Equations, Fourier Analysis, Discrete Mathematics
+      - Physics - Mechanics, Oscillations, Waves, Electromagnetism, Optics, Special Relativity, Quantum Mechanics
+    - title: University of Rochester
+      institution: <a href="https://cmap.rochester.edu/education-outreach/ug-summer/">Discovery Science Center Summer School for Matter at Extreme Conditions</a>
+      year: June 2023
+      description: 
+      - Introduction to hydrodynamics and magnetohydrodynamics
+      - Adapted existing hydrodynamics code to simulate plasma jet collisions and planetary formation
+      - Received a full merit scholarship including travel and stipend.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "<a href=\"http://pbpl.physics.ucla.edu/\">Particle Beam Physics Laboratory</a>"
+      institution: "Undergraduate Researcher"
+      year: JAN 2023-PRESENT
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Optimizing beam matching for a plasma wakefield accelerator (Python)
+
+    - title: "<a href=\"https://www.llnl.gov/\">Lawrence Livermore National Laboratory</a>"
+      institution: Science Undergraduate Laboratory Intern
+      year: JUN 2022-FEB 2023
+      description: 
+      - Contributed to the Multiphase Equation of State code through adding, updating, and fixing models and scripts (C++, Python, Bash)
+      - Created the PurgaExtendWithTF4 model utilizing the Purgatorio and Thomas-Fermi electron model 
+      - "Gave a presentation on the PurgaExtendWithTF4 model at the 2022 LLNL Summer Slam and <a href=\"https://livermorelabfoundation.org/2022/09/15/2022-summer-slam-special-edition-2/\">2022 LLNL Summer Slam Special Edition</a>"
+      - "Wrote a report on the <a href=\"https://drive.google.com/file/d/1idXFUxKQRrXcbXVg7wlk9IfwVT27TdQN/view?usp=sharing   \">PurgaExtendWithTF4 model</a>"
+
+    - title: "<a href=\"https://www.elegantmind.org/\">Elegant Mind Club</a>"
+      institution: Undergraduate Researcher
+      year: MAR 2022-JUN 2022
       description:
-        - Description 1.
-        - Description 2.
+      - Assembled an epifluorescence microscope for brain scanning and a line-confocal microscope for eye tracking to study the perception of 3D space in zebrafish
+      - Presented at the 2022 Undergraduate Research Week
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: "<a href=\"https://labsmith.com/\">LabSmith</a>"
+      institution: Intern
+      year: MAR 2021-SEP 2021
+      description: 
+      - "Wrote application note on the <a href=\"https://labsmith.com/applications/LabSmith-Sensirion_Flow_Sensor_Control_with_uProcess.pdf\">Sensirion Flow Sensor Control</a> with uProcess"
+      - Component washing, inspection, packing; product assembly; product programming/calibration/testing.
+      - Writing scripts, documentation editing, application note
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: "<a href=\"https://www.firstinspires.org/robotics/frc\">FIRST Robotics Team</a>"
+      institution: "<a href=\"http://www.gravitechx.org/\">GravitechX</a>"
+      year: AUG 2017-JUN 2021
+      description: 
+      - Programmed vision code (Python, OpenCV), rotating mechanical arm (Java), and projectile launcher for robot (Java)
+      - Taught programming, applied for grants, managed budget of $20k, organized projects and meetings
+      - Organized the fundraising and distribution of Arduino kits for hands-on learning during the pandemic
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Skills
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - C++ , C, Python, Java, JavaScript, Lisp, Octave, Bash, and HTML
+    - Git, Jira, Object-Oriented Programming, Fusion 360, Google Sheets, Linux, and Windows system
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a href="/Nirajara.github.io/archery/">Archery</a>, <a href="/Nirajara.github.io/desmos/">Desmos</a>, <a href="/Nirajara.github.io/other/">Organizational Things</a>
