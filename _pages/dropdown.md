@@ -9,6 +9,4 @@ children:
       permalink: /archery/
     - title: Desmos
       permalink: /desmos/
-    - title: Other
-      permalink: /other/
 ---
