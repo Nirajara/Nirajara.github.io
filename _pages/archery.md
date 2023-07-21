@@ -3,7 +3,7 @@ layout: page
 permalink: /archery/
 title: Archery
 nav: false
-display_categories: [archery1, archery2]
+display_categories: [archery1, archery2, archery3]
 nav_order: 5
 ---
 

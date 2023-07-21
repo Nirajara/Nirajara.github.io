@@ -11,7 +11,7 @@ Indoor archery, <a href="https://www.betweenends.com/tournament/1136/">SIACC 202
 
 <div class="row">
     <div class="col-sm-8 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/archery-siacc_medal.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/archery-siacc_medal.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-2 mt-md-0">
         <br>
@@ -30,5 +30,5 @@ UCLA altogether got second place overall with over 5 schools competing!
 <br>
 
 <div class="row">
-    {% include figure.html path="assets/img/archery-siacc_team.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/archery-siacc_team.jpg" title="" class="img-fluid rounded z-depth-1" %}
 </div>
