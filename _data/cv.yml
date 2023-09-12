@@ -9,6 +9,16 @@
       - Multivariable Calculus, Linear Algebra, Differential Equations, Fourier Analysis, Discrete Mathematics
       - Physics - Mechanics, Oscillations, Waves, Electromagnetism, Optics, Special Relativity, Quantum Mechanics
     
+    - title: University of Rochester
+      institution: <a href="https://cmap.rochester.edu/education-outreach/ug-summer/">Discovery Science Center Summer School for Matter at Extreme Conditions</a>
+      year: June 2023
+      description: 
+      - Introduction to hydrodynamics and magnetohydrodynamics
+
+    - title: Other Relevant Coursework
+      courses:
+        - date: September 2020
+        - title: Machine Learning Course by Andrew Ng (Coursera; Stanford University)
 
 - title: Experience
   type: time_table
@@ -19,13 +29,12 @@
       description:
         - Optimizing beam matching for a plasma wakefield accelerator (Python)
 
-    - title: University of Rochester
-      institution: <a href="https://cmap.rochester.edu/education-outreach/ug-summer/">Discovery Science Center Summer School for Matter at Extreme Conditions</a>
-      year: June 2023
+    - title: "<a href=\"https://labsmith.com/\">LabSmith</a>"
+      institution: Intern
+      year: JUL 203-AUG 2023
       description: 
-      - Introduction to hydrodynamics and magnetohydrodynamics
-      - Adapted existing hydrodynamics code to simulate plasma jet collisions and planetary formation
-      - Received a full merit scholarship including travel and stipend.
+      - Ported the uProcess SDK from Windows to Linux ensuring cross-compatibility (C++, CMake)
+      - Implemented a dynamic menu for the uProcess scripting language, listing all available devices and their commands. Commands are auto-inserted into the script when clicked, assisting users in developing uProcess scripts. (C++)
 
     - title: "<a href=\"https://www.llnl.gov/\">Lawrence Livermore National Laboratory</a>"
       institution: Science Undergraduate Laboratory Intern
@@ -47,9 +56,9 @@
       institution: Intern
       year: MAR 2021-SEP 2021
       description: 
-      - "Wrote application note on the <a href=\"https://labsmith.com/applications/LabSmith-Sensirion_Flow_Sensor_Control_with_uProcess.pdf\">Sensirion Flow Sensor Control</a> with uProcess"
-      - Component washing, inspection, packing; product assembly; product programming/calibration/testing.
-      - Developed scripts and updated documentation
+      - "Added the Sensirion Flow Sensor to the uProcess software and wrote an <a href=\"https://labsmith.com/applications/LabSmith-Sensirion_Flow_Sensor_Control_with_uProcess.pdf\">application note</a> on it (C++)"
+      - Handled cleaning, inspection, and assembly of microfluidic components as well as programming/calibration/testing 
+      - Updated and edited documentation and application notes
 
     - title: "<a href=\"https://www.firstinspires.org/robotics/frc\">FIRST Robotics Team</a>"
       institution: "<a href=\"http://www.gravitechx.org/\">GravitechX</a>"
@@ -68,4 +77,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <a href="/archery/">Archery</a>, <a href="/desmos/">Desmos</a>
+    - <a href="/archery/">Archery</a>, <a href="/desmos/">Desmos</a>, <a href="/projects/">Projects</a>

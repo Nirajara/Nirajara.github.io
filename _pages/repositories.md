@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /projects/
 title: Projects
 description: Here's some personal projects that I have done in the past!
 nav: true

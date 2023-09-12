@@ -52,6 +52,18 @@
                 {% endfor %}
               </ul>
             {% endif %}
+            {% if content.courses %}
+                {% for course in content.courses %}
+                  {% if course.date %}
+                      <span class="badge font-weight-bold danger-color-dark text-uppercase align-left" style="min-width: 75px;">
+                        {{ course.date }}
+                      </span>
+                  {% endif %}
+                    {% if course.title %}
+                      <ul style="list-style: none; padding-top: 5px;">{{ course.title }}</ul>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
           </div>
         </div>
       </li>
