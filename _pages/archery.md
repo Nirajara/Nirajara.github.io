@@ -7,9 +7,9 @@ display_categories: [archery1, archery2, archery3]
 nav_order: 5
 ---
 
-Hi there! I shoot Barebow for the <a href="https://dev.uclaclubarchery.com/">UCLA archery team</a>! I joined (having basically never shot before) in September 2021 and I've had a lot of fun practicing and competing! 
+Hi there! I shoot Barebow for the <a href="https://dev.uclaclubarchery.com/">UCLA archery team</a>.
 
-Here's some of the latest competitions I've shot in!
+Here are some of the latest competitions I've shot in.
 
 <!-- pages/projects.md -->
 <div class="projects">
