@@ -31,7 +31,7 @@
       institution: "Advisor: Layla Hormozi"
       year: Jun 2023 - Present
       description:
-      - Researching quantum error-correcting codes for non-Abelian topological quantum computers
+      - Researching non-Abelian topological quantum error-correcting codes
 
     - title: "<a href=\"https://cosmicdawn.astro.ucla.edu/\">Furlanetto Research Group</a>"
       institution: "Advisor: Steven Furlanetto"
@@ -41,7 +41,7 @@
 
     - title: "<a href=\"https://www.llnl.gov/\">Lawrence Livermore National Laboratory</a>"
       institution: Science Undergraduate Laboratory Intern
-      year: JUN 2022-FEB 2023
+      year: JUN 2022-JAN 2023
       description: 
       - Created the PurgaExtendWithTF4 model utilizing the Purgatorio and Thomas-Fermi electron model (C++)
       - Wrote user-friendly scripts to assist users in utilizing MEOS (Bash, Python)
