@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! Welcome to my website! 
 
-I am an undergraduate student pursuing a Computer Science BS and a Physics BS at UCLA. I am particularly passionate about quantum mechanics, quantum computing, simulations, mathematics, and physics. If you know of any opportunities or projects that align with my interests and skills, please don't hesitate to contact me. Thanks for visiting! 
+I am a recent graduate with a Bachelor's degree in Physics and Computer Science from UCLA. I am particularly passionate about quantum physics and quantum information sciences. If you know of any opportunities or projects that align with my interests and skills, please don't hesitate to contact me. Thanks for visiting!
 
 Have a nice day :)
 

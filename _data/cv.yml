@@ -4,16 +4,16 @@
     - title: University of California, Los Angeles
       institution: Computer Science BS and Physics BS
       year: 2021-2025
-      description:
-      - Computer Science - Algorithms, Computer Architecture, Operating Systems, Design of Logic Systems
-      - Multivariable Calculus, Linear Algebra, Differential Equations, Fourier Analysis, Discrete Mathematics, Statistics
-      - Physics - Mechanics, Electromagnetism, Quantum Optics, Special Relativity, Quantum Mechanics
+      # description:
+      # - Computer Science - Algorithms, Computer Architecture, Operating Systems, Design of Logic Systems
+      # - Multivariable Calculus, Linear Algebra, Differential Equations, Fourier Analysis, Discrete Mathematics, Statistics
+      # - Physics - Mechanics, Electromagnetism, Quantum Optics, Special Relativity, Quantum Mechanics
     
-    - title: University of Rochester
-      institution: <a href="https://cmap.rochester.edu/education-outreach/ug-summer/">Discovery Science Center Summer School for Matter at Extreme Conditions</a>
-      year: June 2023
-      description: 
-      - Introduction to hydrodynamics and magnetohydrodynamics
+    # - title: University of Rochester
+    #   institution: <a href="https://cmap.rochester.edu/education-outreach/ug-summer/">Discovery Science Center Summer School for Matter at Extreme Conditions</a>
+    #   year: June 2023
+    #   description:
+    #   - Introduction to hydrodynamics and magnetohydrodynamics
 
 - title: Honors and Awards
   type: time_table
@@ -27,13 +27,17 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: "<a href=\"https://agerolin.github.io/index.html\">University of Ottawa</a>"
+      institution: "Advisor: Augusto Gerolin"
+      year: AUG 2025 - Present
+
     - title: "<a href=\"https://www.bnl.gov/world/\">Brookhaven National Laboratory</a>"
       institution: "Advisor: Layla Hormozi"
       year: Jun 2023 - Present
       description:
       - Researching non-Abelian topological quantum error-correcting codes
 
-    - title: "<a href=\"https://cosmicdawn.astro.ucla.edu/\">Furlanetto Research Group</a>"
+    - title: "<a href=\"https://cosmicdawn.astro.ucla.edu/\">Furlanetto Research Group (UCLA)</a>"
       institution: "Advisor: Steven Furlanetto"
       year: Dec 2023 - Present
       description: 
@@ -43,8 +47,8 @@
       institution: Science Undergraduate Laboratory Intern
       year: JUN 2022-JAN 2023
       description: 
-      - Created the PurgaExtendWithTF4 model utilizing the Purgatorio and Thomas-Fermi electron model (C++)
-      - Wrote user-friendly scripts to assist users in utilizing MEOS (Bash, Python)
+      - Designed the PurgaExtendWithTF4 model utilizing the Purgatorio and Thomas-Fermi electron model (C++)
+      - Developed scripts to for utilizing MEOS (Bash, Python)
       - "Presented PurgaExtendWithTF4 at the 2022 LLNL Summer Slam and <a href=\"https://livermorelabfoundation.org/2022/09/15/2022-summer-slam-special-edition-2/\">2022 LLNL Summer Slam Special Edition</a>"
       - "Published a <a href=\"https://www.osti.gov/biblio/1890073\">technical report</a> on the PurgaExtendWithTF4 model"
 
@@ -55,18 +59,18 @@
       institution: Intern
       year: JUL 203-AUG 2023
       description: 
-      - Ported the uProcess SDK from Windows to Linux preserving parallel computation advantages and ensuring cross-compatibility (C++, CMake)
-      - Implemented a dynamic menu for the uProcess scripting language, listing all available devices and their commands. Commands are auto-inserted into the script, accelerating uProcess script development (C++)
+      - Ported the uProcess SDK from Windows to Linux while preserving parallel computation advantages and ensuring cross-compatibility (C++, CMake)
+      - Implemented the dynamic menu for developing in the uProcess scripting language (C++)
 
     - title: "<a href=\"https://labsmith.com/\">LabSmith</a>"
       institution: Intern
       year: MAR 2021-SEP 2021
       description: 
-      - Added the Sensirion Flow Sensor to the uProcess software (C++)
+      - Integrated the Sensirion Flow Sensor to the uProcess software (C++)
       - "Wrote an <a href=\"https://labsmith.com/applications/LabSmith-Sensirion_Flow_Sensor_Control_with_uProcess.pdf\">application note</a> on maintaining a consistent flow rate with feedback control using a flow rate sensor"
-      - Handled cleaning, inspection, and assembly of microfluidic components
-      - Handled programming, calibration, and testing of microfluidic components
-      - Updated and edited documentation and application notes
+      - Ensured quality and reliability of microfluidic components through careful cleaning, inspection, and assembly
+      - Programmed, calibrated, and tested microfluidic components for accurate performance and functionality
+      - Updated and refined documentation and application notes to improve clarity and usability
 
 - title: Other Experience
   type: time_table
@@ -82,6 +86,10 @@
 - title: Presentations
   type: time_table
   contents:
+  - title: UCLA Undergraduate Research & Creativity Showcase
+    institution: “A Phenomenological Model of Reionization”
+    year: May 2025
+
   - title: Brookhaven National Laboratory Summer Internship Programs Symposium
     institution: “Quantum error-correcting code architectures” (poster)		    
     year: August 2024
@@ -104,4 +112,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <a href="/archery/">Archery</a>, <a href="/desmos/">Desmos</a>, <a href="/projects/">Projects</a>
+    - <a href="/archery/">Archery</a>, <a href="/projects/">Projects</a>
